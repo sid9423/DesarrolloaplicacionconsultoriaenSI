@@ -6,11 +6,7 @@ ________________________________________________________________________________
 
  **Unidad** | **Temas** | **Subtemas**
  :----------: | --------- | -----------
-  1 | Fundamentos del analisis de sistemas de informacion. | 1. El papel del analista de sistemas de informacion.
-							   |	           * La informacion como un recurso de la organizacion.
-                                                           |               * Conceptos de analisis y diseño de sistemas
-									   * El papel del analista de sistemas
-								           * El ciclo de vida del desarrollo de sistemas.
+  1 | Fundamentos del analisis de sistemas de informacion. | 1. El papel del analista de sistemas de informacion.							   	           * La informacion como un recurso de la organizacion.                                                                           * Conceptos de analisis y diseño de sistemas									   * El papel del analista de sistemas								           * El ciclo de vida del desarrollo de sistemas.
 							     2. La factibilidad y el manejo de las actividades de analisis y diseño.
 									   * Fundamentos del proyecto.
 									   * Inicio del proyecto.
