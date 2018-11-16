@@ -5,84 +5,82 @@ ________________________________________________________________________________
 
 # Temario
 
-## Unidad I - Fundamentos del analisis de Sistemas de Informacion.
+## Unidad I - Fundamentos del análisis de Sistemas de Información.
 
-1. El papel del analista de sistemas de informacion.
+1. El papel del analista de sistemas de información.
 
-          	 * La informacion como un recurso de la organizacion.
+	- La información como un recurso de la organización.
 
-		 * Conceptos de analisis y diseño de sistemas.
+	- Conceptos de análisis y diseño de sistemas.
 
-		 * El papel del analista de sistemas.
+	- El papel del analista de sistemas.
 
-		 * El ciclo de vida del desarrollo de sistemas.
+	- El ciclo de vida del desarrollo de sistemas.
 
-2. La factibilidad y el manejo de las actividades de analisis y diseño.
+2. La factibilidad y el manejo de las actividades de análisis y diseño.
 	
-	  	 * Fundamentos del proyecto.
+	- Fundamentos del proyecto.
 
-		 * Inicio del proyecto.
+	- Inicio del proyecto.
 
-		 * Determinacion de la factibilidad.
+	- Determinación de la factibilidad.
 
-		 * Planeacion y control de actividades.
+	- Planeación y control de actividades.
 
-		 * Administracion de las actividades de analisis.
+	- Administración de las actividades de análisis.
 
-## Unidad II - Analisis de los requerimientos de Informacion.
+## Unidad II - Análisis de los requerimientos de Información.
 
-1. Muestreo e Investigacion de datos impresos.
+1. Muestreo e Investigación de datos impresos.
 
-          	 * Muestreo.
+	- Muestreo.
 
-		 * Tipo de informacion buscada en la investigacion.
+	- Tipo de información buscada en la investigación.
 
 
 2. Entrevista.
 	
-	  	 * Tipos de informacion buscada.
+	- Tipos de información buscada.
 
-		 * Planeacion de la entrevista.
+	- Planeación de la entrevista.
 
-		 * Conduccion de la entrevista.
+	- Conducción de la entrevista.
 
-		 * Escritura del reporte de la entrevista.
+	- Escritura del reporte de la entrevista.
 
 3. Cuestionarios.
 
-          	 * Tipos de Informacion buscada.
+	- Tipos de Información buscada.
 
-		 * Planeacion para el uso de cuestionarios.
+	- Planeación para el uso de cuestionarios.
 
 3. Observacion.
 
-          	 * Tipos de Informacion buscada.
+	- Tipos de Informacion buscada.
 
-		 * Observacion del ambiente fisico.
+	- Observación del ambiente físico.
 
 
 
-## Unidad III - El proceso de analisis.
+## Unidad III - El proceso de análisis.
 
 1. Diagrama de flujo de datos.
 
-          	 * El enfoque de flujo de datos para la determinacion de requerimientos.
+	- El enfoque de flujo de datos para la determinación de requerimientos.
 
-		 * Desarrollo de diagramas de flujo de datos.
+	- Desarrollo de diagramas de flujo de datos.
 
-		 * Diagrama de flujo de datos logicos y fisicos.
+	- Diagrama de flujo de datos lógicos y físicos.
 
-		 * Particion del diagrama de flujo de datos.
+	- Partición del diagrama de flujo de datos.
 
 
 2. El diccionario de datos.
 	
-	  	 * El almacen de datos.
+	- El almacén de datos.
 
-		 * Creacion del diccionario de datos.
+	- Creación del diccionario de datos.
 
-		 * Uso del diccionario de datos.
+	- Uso del diccionario de datos.
 
-		 * Escritura del reporte de la entrevista.
-
-
+	- Escritura del reporte de la entrevista.
